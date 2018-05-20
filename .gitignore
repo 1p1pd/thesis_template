@@ -1,0 +1,37 @@
+## General
+
+# VScode
+.vscode
+
+# TexPad
+.texpadtmp
+
+# Editor temporaries
+*.swp
+*~
+
+# Sublime Text settings
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse Project settings
+*.*project
+.settings
+
+# QtCreator files
+*.user
+
+# PyCharm files
+.idea
+
+# OSX dir files
+.DS_Store
+
+# Tex dust
+*.flg
+*.log
+*.fls
+*.aux
+*.bbl
+*.gz
+*.fdb_latexmk
